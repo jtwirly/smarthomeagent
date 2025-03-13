@@ -37,7 +37,7 @@ pip install transformers gradio openai requests torch PIL
 ```
 
 ### **2️⃣ Set Up API Keys**
-Edit `config.py` and add:
+Add:
 ```python
 OPENAI_API_KEY = "your-api-key"
 COMED_API_URL = "https://hourlypricing.comed.com/api?type=5minutefeed&format=json"
