@@ -61,13 +61,13 @@ User: "What is the current electricity price in Illinois?"
 Bot: "The latest ComEd price is 14.2 cents/kWh."
 ```
 
-### **🌡️ Predict Future Energy Demand **
+### 🌡️ Predict Future Energy Demand 
 ```
-User: "How much electricity will I use tomorrow?"
+User: "How much electricity will I use over the next 6 hours?"
 Bot: "Based on your past usage, your predicted energy consumption for the next 6 hours is 1.8 kWh."
 ```
 
-### ** Optimize HVAC **
+### Optimize HVAC 
 ```
 User: "Optimize HVAC settings based on energy prices."
 Bot: "Energy price is high! Adjusting thermostat for efficiency."
@@ -96,7 +96,7 @@ Bot: "The latest ComEd price is 14.2 cents/kWh."
 - Can be expanded for **security automation**  
 
 ---
-## 👥 Collaborators:
+## 👥 Collaborators
 
 Jennifer Turliuk, Siddharth Chilukuri, Dominic Sudnik, Kike Vera
 
