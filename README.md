@@ -25,8 +25,7 @@ This project is a **Smart Home AI Agent** that leverages:
 ---
 
 ## **🛠️ Setup & Installation**
-Smart_Home_Agent_5.ipynb - no neural network integration
-Smart_Home_Agent_8.ipynb - has neural network integration
+Smart_Home_Agent_8.ipynb has neural network integration
 
 ### **1️⃣ Install Dependencies**
 Manually install:
