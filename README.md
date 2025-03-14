@@ -25,6 +25,8 @@ This project is a **Smart Home AI Agent** that leverages:
 ---
 
 ## **🛠️ Setup & Installation**
+
+
 ### **1️⃣ Install Dependencies**
 Manually install:
 ```bash
@@ -94,19 +96,20 @@ Bot: "The latest ComEd price is 14.2 cents/kWh."
 - Can be expanded for **security automation**  
 
 ---
+## **👥 Collaborators:
 
+Jennifer Turliuk, Siddharth Chilukuri, Dominic Sudnik, Kike Vera
+
+---
 ## **📜 License**
 This project is **MIT Licensed** – Feel free to modify & use. 🚀
 
 ---
-👥 Collaborators:
-
-Siddharth Chilukuri
-Jennifer Turliuk
-Dominic Sudnik
-Kike Vera
 
 🚀 **Built for a Smarter, Energy-Efficient Home!** 🚀
+
+---
+## ** Sample Uses
 
 <img width="1242" alt="Screen Shot 2025-03-13 at 9 30 55 PM" src="https://github.com/user-attachments/assets/58eec9a0-fc54-4d51-9c26-3dd6bc9870c3" />
 <img width="1250" alt="Screen Shot 2025-03-13 at 9 30 26 PM" src="https://github.com/user-attachments/assets/d04350ea-a71d-410f-8fc2-076f77f6652e" />
