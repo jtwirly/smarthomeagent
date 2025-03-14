@@ -96,12 +96,12 @@ Bot: "The latest ComEd price is 14.2 cents/kWh."
 - Can be expanded for **security automation**  
 
 ---
-## **👥 Collaborators:
+## 👥 Collaborators:
 
 Jennifer Turliuk, Siddharth Chilukuri, Dominic Sudnik, Kike Vera
 
 ---
-## **📜 License**
+## 📜 License**
 This project is **MIT Licensed** – Feel free to modify & use. 🚀
 
 ---
@@ -109,7 +109,7 @@ This project is **MIT Licensed** – Feel free to modify & use. 🚀
 🚀 **Built for a Smarter, Energy-Efficient Home!** 🚀
 
 ---
-## ** Sample Uses
+## Sample Uses
 
 <img width="1242" alt="Screen Shot 2025-03-13 at 9 30 55 PM" src="https://github.com/user-attachments/assets/58eec9a0-fc54-4d51-9c26-3dd6bc9870c3" />
 <img width="1250" alt="Screen Shot 2025-03-13 at 9 30 26 PM" src="https://github.com/user-attachments/assets/d04350ea-a71d-410f-8fc2-076f77f6652e" />
