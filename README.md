@@ -101,7 +101,7 @@ Bot: "The latest ComEd price is 14.2 cents/kWh."
 Jennifer Turliuk, Siddharth Chilukuri, Dominic Sudnik, Kike Vera
 
 ---
-## 📜 License**
+## 📜 License
 This project is **MIT Licensed** – Feel free to modify & use. 🚀
 
 ---
