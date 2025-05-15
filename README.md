@@ -6,7 +6,7 @@
 This project is a **Smart Home AI Agent** that leverages:  
 ✅ **OpenAI API** for **energy price analysis & automation**  
 ✅ **ComEd & Bayou APIs** for **real-time & historical electricity data**  
-✅ Neural Networks (DNN) for future energy demand prediction
+✅ Neural Networks (DNN) for future energy demand prediction 
 ✅ **Gradio Web UI** for **easy user interaction**  
 
 ---
