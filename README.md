@@ -3,7 +3,7 @@
 ---
 
 ## **🔍 Overview**  
-This project is a **Smart Home AI Agent** that leverages:  
+This project was created as part of MIT's Hands-on Deep Learning class. It is a **Smart Home AI Agent** that leverages:  
 ✅ **OpenAI API** for **energy price analysis & automation**  
 ✅ **ComEd & Bayou APIs** for **real-time & historical electricity data**  
 ✅ Neural Networks (DNN) for future energy demand prediction 
